@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties speech delivered the twenty second of January, 1643. to the Members of the two Houses of Parliament at Oxford·</title>
+            <title>Speeches. 1644-01-22</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79093</idno><idno type="EEBO-CITATION">99897409</idno>
+  <idno type="VID">170867</idno>
+  <idno type="EEBO-PROQUEST">2240926192</idno>
+  
+            <idno type="STC">Wing C2784</idno>
+            <idno type="STC">ESTC R223501</idno>
+            <idno type="PROQUEST">99897409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897409e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2492:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties speech delivered the twenty second of January, 1643. to the Members of the two Houses of Parliament at Oxford·</title>
+                  <title>Speeches. 1644-01-22</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A London counterfeit of this Oxford imprint has title "His Majesties speech delivered the twenty second of Ianuary, 1643. at Oxford" (Wing C2784B). The speech was also published as the first speech in "Two speeches delivered by His Maiestie to the Members of both Houses of Parliament assembled at Oxford" (Wing C2862).</note>
+                  <note>The publication date is given according to Lady Day dating.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170867:1"/>
+            <p>HIS MAJESTIES SPEECH DELIVERED THE Twenty second of <hi>January,</hi> 1643. TO THE <hi>MEMBERS OF THE</hi> TWO HOUSES OF PARLIAMENT <hi>AT</hi> OXFORD.</p>
+            <p>Printed <hi>At OXFORD,</hi> By <hi>Leonard Lichfield,</hi> Printer to the Vniversity. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:170867:2"/>
+            <pb n="1" facs="tcp:170867:2"/>
+            <head>HIS MAIESTIES <hi>SPEECH</hi> Delivered the twenty second of <hi>January,</hi> 1643.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEN I consider your publique Jnterests and Concernments in the happinesse and honour of this Nation, and your particular sufferings in this Rebellion, for your affection and Loy<g ref="char:EOLhyphen"/>alty to Me; I must look upon you as the most competent Considerers and Coun<g ref="char:EOLhyphen"/>sellours
+<pb n="2" facs="tcp:170867:3"/>how to Manage and improve the Condition We are all in; for sure our con<g ref="char:EOLhyphen"/>dition is so equall, that the same violence hath oppressed Us all.</p>
+            <p>I have therefore called you together to be witnesses of my Actions, and privy to My Intentions; and certainly if I had the least thought, disagreeing with the happi<g ref="char:EOLhyphen"/>nesse and security of this Kingdome, I would not advise with such Counsellors, and I doubt not but your Concurrence with Me will so farre prevaile over the hearts and understandings of this whole Kingdome, (who must looke upon you as persons naturally and originally trusted by and for them) that it will be above the reach and malice of those who have hi<g ref="char:EOLhyphen"/>therto had too great an influence upon the People, to discredit my most entire Acti<g ref="char:EOLhyphen"/>ons, and sincere Promises; you will be the best Witnesses for the one, and security for the other.</p>
+            <p>Very many of you can beare Mee wit<g ref="char:EOLhyphen"/>nesse with what unwillingnesse I suffered
+<pb n="3" facs="tcp:170867:3"/>My selfe first to take up these defensive Armes; indeed with so great, that I was first almost in the power of those who in two set Battails, have sufficiently informed the World how tender they have been of the safety of My Person. I foresaw not only the rage and oppression which would every day breake out upon My Subjects, as the malice of these ill men increased, &amp; their purposes were detected; but also the great inconveniences My best Subjects would suffer even by My owne Army, raised and kept for their preserva<g ref="char:EOLhyphen"/>tion and protection; for J was not so ill a Souldier, as not to foresee how impossible it was to keep a strict discipline, I being to struggle with so many defects and necessi<g ref="char:EOLhyphen"/>ties; &amp; I assure you the sense I have of their sufferings, who deserve well of Me, by My Forces, hath been a greater greife to Me then any thing for My own particular. My hope was, that either by successe on My part, or Repentance on theirs, God would have put a short end to this great
+<pb n="4" facs="tcp:170867:4"/>storme. But Guilt and Despaire have made these Men more wicked, then J imagine they at first intended to be; for instead of re<g ref="char:EOLhyphen"/>moving and reconciling these bloudy di<g ref="char:EOLhyphen"/>stractions, and restoring Peace to this lan<g ref="char:EOLhyphen"/>guishing Country, they have invited a Forraigne Power to invade this Kingdom, and that in your names, and challenge this Invasion from them as a debt to the Com<g ref="char:EOLhyphen"/>mon-Wealth. You (My Lords) have, like your selves (as good <hi>Patriots</hi>) expressed your dissent, and vindicated your selves from that imputation: and I doubt not but you (Gentlemen) will let your Countries know, how farre you are from desiring such Assistance, and hovv absolute and pe<g ref="char:EOLhyphen"/>remptory a breach this raising of Armes of My <hi>Scots</hi> Subjects is of that Pacification, which was so lately and solemnely made by you, and can intend nothing but a Con<g ref="char:EOLhyphen"/>quest of you and your Lawes. I shall send you all the advertisements. I have of that busines which is threatned from <hi>Scotland,</hi> and what is already acted from thence;
+<pb n="5" facs="tcp:170867:4"/>and shall desire your speedy advice and as<g ref="char:EOLhyphen"/>sistance what is to be said or done, both with reference to this, and that King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Our ends being the same, I am sure there will be no other difference in the way, then what upon debate and right understanding will be easily adjusted. Let our Religion (in which We are all most nearly concerned, and without care of which We must not looke for God's bles<g ref="char:EOLhyphen"/>sing) be vindicated and preserved; Let My Honour and Rights (which you find to have an inseparable relation with your owne interests) be vindicated and resto<g ref="char:EOLhyphen"/>red; Let your Liberties, Properties, Pri<g ref="char:EOLhyphen"/>viledges (without which I would not be your King) be secured and confirmed, and there is nothing you can advise me to, I will not meet you in; and I doubt not We shall together inform Posterity, how much our trust and confidence in each other, is a better expedient for the Peace and preser<g ref="char:EOLhyphen"/>vation of the Kingdom, then Feares &amp; Jea<g ref="char:EOLhyphen"/>ousies.</p>
+            <pb n="6" facs="tcp:170867:5"/>
+            <p>I shall keep you no longer from consul<g ref="char:EOLhyphen"/>ting together, then in telling you, that I have prepared fit places for your Meetings, to which J desire you to repaire this night; assuring you, That J will be alwaies ready to receive any thing from you, admitting you to Me, or comming to you My Selfe, whensoever you shall desire. And so God direct you the best way.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170867:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
